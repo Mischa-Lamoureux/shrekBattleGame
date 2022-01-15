@@ -1,1 +1,1 @@
-A 2-player Shrek battle game created as a final project in grade 11.
+You and your friends can choose from a variety of popular Shrek characters to go head-to-head in an epic two-player battle.
